@@ -1,0 +1,53 @@
+header{
+    background-color: rgb(253, 38, 63);
+}
+
+
+.cabecalho{
+background-color: rgb(235, 238, 49);
+color:rgb(253, 38, 63);
+display:flex;
+justify-content: space-around;
+padding: 24px 0;
+font-size: 30px;
+
+}
+
+.cabecalho-imagem{
+    width: 20%;
+    /*tamanho da imagem da logo.*/
+    /*se for texto usa o "font-size: 20px;".*/
+
+}
+
+.cabecalholistaItem{
+    display: inline-block;
+    margin: 0 16px;
+    padding: 24px 0;
+}
+.sobre-conteudo{
+    width: 50%
+}
+.sobre-titulo{
+    padding: 30px 0;
+}
+.sobre{
+background-image: url(img/image\ 1.png);
+color:aliceblue;
+display:flex;
+justify-content: center;
+align-items:center;
+padding:58px 0;
+}
+
+.membro-icone{
+    width:24px
+}
+.membro-div{
+    text-align:center
+}
+
+.membros-titulos{
+text-align: center;
+padding:150px 0;
+}
