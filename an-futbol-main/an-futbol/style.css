@@ -37,17 +37,14 @@ color:aliceblue;
 display:flex;
 justify-content: center;
 align-items:center;
-padding:58px 0;
-}
-
-.membro-icone{
-    width:24px
-}
-.membro-div{
-    text-align:center
 }
 
 .membros-titulos{
 text-align: center;
 padding:150px 0;
+}
+
+.membros-todos{
+    display:grid;
+    grid-template-columns: 5% 30% 30% 30% 5%;
 }
